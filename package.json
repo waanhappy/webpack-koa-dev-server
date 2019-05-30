@@ -1,0 +1,30 @@
+{
+  "name": "webpack-koa-dev-server",
+  "version": "1.0.0",
+  "description": "webpack dev server with koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waanhappy/webpack-koa-dev-server.git"
+  },
+  "keywords": [
+    "dev-server"
+  ],
+  "author": "waanhappy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waanhappy/webpack-koa-dev-server/issues"
+  },
+  "homepage": "https://github.com/waanhappy/webpack-koa-dev-server#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "webpack": "^4.32.2",
+    "webpack-dev-middleware": "^3.7.0"
+  }
+}
