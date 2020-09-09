@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/waanhappy/webpack-koa-dev-server#readme",
   "dependencies": {
-    "http-proxy": "^1.17.0",
+    "http-proxy": "^1.18.1",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "koa-send": "^5.0.0",
