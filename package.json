@@ -24,7 +24,7 @@
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "koa-send": "^5.0.0",
-    "webpack": "^4.32.2",
+    "webpack": "^5.75.0",
     "webpack-dev-middleware": "^3.7.0"
   }
 }
